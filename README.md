@@ -8,13 +8,13 @@
 
 - 🔭 Check out my Freelance profile at [Upwork][upwork]
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate with other freelancers
-- 🥅 2022 Goals: Get good at Web development & data structures
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Get good at web development & data structures
 - ⚡ Fun fact: I love to do photography and exercise
 
 ### Connect with me:
 
-
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[Gmail].svg" />][gmail]
 
 
 <!--Selectors Links-->
