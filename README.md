@@ -1,3 +1,5 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
+
 # Hi there, I'm Sharjeel - A Passionate [Developer][gmail] 👋 
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][upwork]
@@ -14,7 +16,6 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[Gmail].svg" />][gmail]
 
 
 <!--Selectors Links-->
