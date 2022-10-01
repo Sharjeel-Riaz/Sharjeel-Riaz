@@ -1,4 +1,6 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
+<p align="center">
+  <img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" />
+</p>
 
 # Hi there, I'm Sharjeel - A Passionate [Developer][gmail] 👋 
 
