@@ -2,7 +2,7 @@
   <img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" />
 </p>
 
-# Hi there, I'm Sharjeel - A Passionate [Developer][gmail] 👋🏻 
+# Hi there 👋🏻, I'm Sharjeel - A Passionate [Developer.][gmail]
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][upwork]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning Web Development
 - 🤝🏻 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Get good at web development & data structures
+- ✉️ Reach me at: [Email][gmail]
 - ⚡ Fun fact: I love to do photography and exercise
 
 ### Connect with me:
@@ -53,7 +54,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br />
+
 ---
 
 <details>
