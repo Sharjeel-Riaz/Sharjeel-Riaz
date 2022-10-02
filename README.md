@@ -56,7 +56,7 @@
 
 ---
 
-### Spotify Playing
+### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-sharjeel-riaz.vercel.app/api/spotify)](https://open.spotify.com/user/jt06xkz0s5qwfxwhdpozakks9)
 
