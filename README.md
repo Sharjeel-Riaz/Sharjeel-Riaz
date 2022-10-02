@@ -61,17 +61,8 @@
   <summary>:zap: GitHub Stats</summary>
   <br>
   <img align="left" alt="Sharjeel's GitHub Stats" src="https://github-readme-stats-sharjeel-riaz.vercel.app/api?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <img align="left" alt="Sharjeel's GitHub Stats" src="https://github-readme-stats-sharjeel-riaz.vercel.app/api/top-langs?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+  
+  <img align="left" alt="Sharjeel's GitHub Stats" src="https://github-readme-stats-sharjeel-riaz.vercel.app/api/top-langs?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true" />
   
 </details>
 
