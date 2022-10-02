@@ -58,6 +58,13 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <br>
   <img align="left" alt="Sharjeel's GitHub Stats" src="https://github-readme-stats-sharjeel-riaz.vercel.app/api?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true" />
