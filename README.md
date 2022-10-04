@@ -2,7 +2,7 @@
   <img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" />
 </p>
 
-# Hi there 👋🏻, I'm Sharjeel - A Passionate [Developer.]
+# Hi there 👋🏻, I'm Sharjeel - A Passionate Developer.
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][upwork]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
