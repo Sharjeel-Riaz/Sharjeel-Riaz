@@ -13,7 +13,7 @@
 - 🔭 Check out my Freelance profile at [Upwork][upwork]
 - 🌱 I’m currently learning Web Development
 - 🤝🏻 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Get good at web development & data structures
+- 🥅 2023 Goals: Become better at coding by using multiple tech stacks
 - ✉️ Reach me at: [Email][gmail]
 - ⚡ Fun fact: I love to do photography and exercise
 
