@@ -29,7 +29,7 @@
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,css,express,figma,firebase,git,html,java,js,jquery,linux,materialui,mongodb,mysql,nextjs,nodejs,php,py,pytorch,react,redux,sass,svg,tailwind,tensorflow,threejs,ts,vercel,vite" />
-</a>;
+</a>
 
 
 ---
