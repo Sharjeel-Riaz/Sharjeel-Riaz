@@ -19,20 +19,17 @@
 
 ### Connect with me:
 
-<p align="left">
-<a href="https://linkedin.com/in/sharjeel-riaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeel-riaz" height="30" width="40" /></a>
-<a href="https://fb.com/sharjeelriazsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeelriazsh" height="30" width="40" /></a>
-<a href="https://instagram.com/sharjeel.rz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeel.rz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharjeel-riaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharjeel-riaz" height="30" width="40" /></a>
-<a href="https://twitter.com/sharjeel_riazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeel_riazz" height="30" width="40" /></a>
-</p>
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/sharjeel.rz#3167)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sharjeel.rz)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sharjeel-riaz/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sharjeelrz)
 
 ### Languages and Tools:
 
 
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,css,express,figma,firebase,git,html,java,js,jquery,linux,materialui,mongodb,mysql,nextjs,nodejs,php,py,pytorch,react,redux,sass,svg,tailwind,tensorflow,threejs,ts,vercel,vite" />
-  </a>
+</a>;
 
 
 ---
