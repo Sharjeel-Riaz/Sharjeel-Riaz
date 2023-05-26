@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 
-## I'm a Student, Freelancer, & a Mentor!
+## I'm a Student, Freelancer, & Mentor!
 
 - 🔭 Check out my Freelance profile at [Upwork][upwork]
 - 🌱 I’m currently learning Web Development
