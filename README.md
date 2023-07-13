@@ -20,15 +20,16 @@
 ### Connect with me:
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/sharjeel.rz#3167)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sharjeel.rz)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sharjeel-riaz/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sharjeelrz)
+[![Devto](https://skillicons.dev/icons?i=devto)](https://dev.to/sharjeel-riaz)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sharjeel.rz)
 
 ### Languages and Tools:
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,css,express,figma,firebase,git,html,java,js,jquery,linux,materialui,mongodb,mysql,nextjs,nodejs,php,py,pytorch,react,redux,sass,svg,tailwind,tensorflow,threejs,ts,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,c,cpp,css,django,express,figma,firebase,git,html,java,js,jquery,linux,materialui,mongodb,mysql,nextjs,nodejs,php,py,pytorch,react,redux,sass,supabase,svg,tailwind,tensorflow,threejs,ts,vercel,vite" />
 </a>
 
 
