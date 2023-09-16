@@ -50,7 +50,6 @@
   <img align="center" src="https://github-readme-stats-sharjeelriaz.vercel.app/api/top-langs?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
 
----
 
 <!--Selectors Links-->
 [upwork]: https://www.upwork.com/freelancers/~01dbc0a239538a6fed
