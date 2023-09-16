@@ -40,10 +40,8 @@
 [![Spotify](https://github-spotify-sharjeelriaz.vercel.app/api/spotify)](https://open.spotify.com/user/jt06xkz0s5qwfxwhdpozakks9)
 
 ---
-
-<details>
   
-  <summary>:zap: GitHub Stats</summary>
+  ### GitHub Stats :zap:
   <br>
   <a href="#">
   <img align="center" src="https://github-readme-stats-sharjeelriaz.vercel.app/api?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,8 +49,8 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats-sharjeelriaz.vercel.app/api/top-langs?username=Sharjeel-Riaz&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
-   
-</details>
+
+---
 
 <!--Selectors Links-->
 [upwork]: https://www.upwork.com/freelancers/~01dbc0a239538a6fed
