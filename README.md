@@ -9,10 +9,9 @@
 
 ## I'm a Student, Freelancer, & Mentor!
 
-- 🔭 Check out my Freelance profile at [Upwork][upwork]
-- 🌱 I’m currently learning Web Development
+- 🌱 Currently building revenue generating SaaS products
 - 🤝🏻 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Become better at coding by using multiple tech stacks
+- 🥅 2024 Goals: Money, tons of money
 - ✉️ Reach me at: [Email][gmail]
 - ⚡ Fun fact: I love to do photography and exercise
 
