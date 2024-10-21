@@ -4,7 +4,6 @@
 
 # Hi there 👋🏻, I'm Sharjeel - A Passionate Developer.
 
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)][upwork]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 
