@@ -13,7 +13,7 @@
 - 🤝🏻 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Money, tons of money
 - ✉️ Reach me at: [Email][gmail]
-- ⚡ Fun fact: I love to do photography and exercise
+- ⚡ Fun fact: Gymrat who likes to listen to the voices
 
 ### Connect with me:
 
